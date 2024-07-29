@@ -4,7 +4,6 @@ This is the main repository for all of the projects in the course.
 
 -   [Course Link](https://www.traversymedia.com/50-Projects-In-50-Days)
 
-
 |  #  | Project                                                                                                                     | Live Demo                                                                         |
 | :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
 | 01  | [Expanding Cards](https://github.com/bradtraversy/50projects50days/tree/master/expanding-cards)                             | [Live Demo](https://50projects50days.com/projects/expanding-cards/)               |
